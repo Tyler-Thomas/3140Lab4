@@ -1,0 +1,37 @@
+body{
+background-color: lightblue;
+}
+
+.header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.clef{
+margin-left: 32%;
+
+}
+
+.clefairy{
+margin-top: 8%;
+
+}
+
+.Button2{
+margin-left: 45%;
+margin-top: 3%;
+text-align: center;
+  background-color: blueviolet;
+  font-size: 20px;
+  width: 150px;
+  height: 75px;
+  color:rgb(207, 133, 35);
+  border-radius: 6px;
+
+}
+
+.response{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 18px;
+}

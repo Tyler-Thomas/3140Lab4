@@ -1,0 +1,1 @@
+	This app is incredibly simple. It is a basic simulation of the move "Metronome" from Pokemon. Metronome rolls and uses a random move from all of the movees in Pokemon. All you need to do to use this app is click the "Use Metronome" button, and there will be an output depending on the move that gets rolled(this app only rolls from the first 500 moves in the list though).  
